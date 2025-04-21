@@ -11,7 +11,7 @@
 3. **What are jQuery selectors?**  
     jQuery selectors are used to find and select HTML elements based on their attributes, IDs, classes, types, and more. They simplify DOM traversal and manipulation.
    <br>
-4. **What is the difference between \$("#id") and \$(".class")?**
+4. **What is the difference between \$("\#id") and \$(".class")?**
    - `$("#id")`: Selects an element with a specific `id`. It returns a single element because IDs are unique.
    - `$(".class")`: Selects all elements that have the specified `class`. It returns multiple elements if more than one element has the class.
      <br>
